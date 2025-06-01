@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Yubraj Nag 👋
+
+I'm a passionate **Software Engineer** focused on building robust and scalable software solutions. My technical expertise spans:
+
+- **Python** (Flask, TensorFlow, PyTorch, Pandas)
+- **Java** (SpringBoot, Hibernate)
+- **SQL** (MySQL, PostgreSQL)
+- **AWS Services**
+- **JavaScript & TypeScript** (Angular, Next.js)
+
+I have hands-on experience in designing and deploying applications with **Machine Learning** and **Deep Learning** capabilities.
+
+---
+
+## 🚀 Projects
+
+- **BitCrunch**  
+  My flagship personal project, where I blend backend engineering and machine learning to deliver impactful results. (More exciting projects coming soon!)
+
+---
+
+## 🎯 Interests
+
+- Geeking out over fiction  
+- Playing first-person shooter games
+
+---
+
+## 🌐 Connect with me
+
+- [LinkedIn](https://linkedin.com/in/yubraj-nag)
+- [LeetCode](https://leetcode.com/u/Yubraj_Nag/)
 
 <!--
-**SkyCoder31/SkyCoder31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to reach out if you'd like to collaborate or just say hi!
 -->

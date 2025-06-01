@@ -15,7 +15,6 @@ I have hands-on experience in designing and deploying applications with **Machin
 ## 🚀 Projects
 
 - **BitCrunch**  
-  My flagship personal project, where I blend backend engineering and machine learning to deliver impactful results. (More exciting projects coming soon!)
 
 ---
 

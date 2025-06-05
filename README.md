@@ -15,7 +15,8 @@ I have hands-on experience in designing and deploying applications with **Machin
 ## 🚀 Projects
 
 - **BitCrunch**  
-
+- **Vector-Space Search Engine**
+  
 ---
 
 ## 🎯 Interests

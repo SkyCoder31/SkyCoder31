@@ -3,7 +3,7 @@
 I'm a passionate **Software Engineer** focused on building robust and scalable software solutions. My technical expertise spans:
 
 - **Python** (Flask, TensorFlow, PyTorch, Pandas)
-- **Java** (SpringBoot, Hibernate)
+- **Node.js**
 - **SQL** (MySQL, PostgreSQL)
 - **AWS Services**
 - **JavaScript & TypeScript** (Angular, Next.js)

@@ -14,6 +14,7 @@ I have hands-on experience in designing and deploying applications with **Machin
 
 ## 🚀 Projects
 
+- **Movie-Booking-Application**
 - **BitCrunch**  
 - **Vector-Space Search Engine**
   

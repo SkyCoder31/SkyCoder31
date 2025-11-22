@@ -4,6 +4,7 @@ I'm a passionate **Software Engineer** focused on building robust and scalable s
 
 - **Python** (Flask, TensorFlow, PyTorch, Pandas)
 - **Node.js**
+- **Java**
 - **SQL** (MySQL, PostgreSQL)
 - **AWS Services**
 - **JavaScript & TypeScript** (Angular, Next.js)

@@ -17,6 +17,7 @@ I have hands-on experience in designing and deploying applications with **Machin
 - **Movie-Booking-Application**
 - **BitCrunch**  
 - **Vector-Space Search Engine**
+- **ViDUp - Distributed & Event-driven video processing backend**
   
 ---
 

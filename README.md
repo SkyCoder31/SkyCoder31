@@ -15,6 +15,7 @@ I have hands-on experience in designing and deploying applications with **Machin
 
 ## 🚀 Projects
 
+- **FraudShield - Realtime fraud detection platform**
 - **ShortIt - A fast short URL generator**
 - **Movie-Booking-Application**
 - **BitCrunch**  
